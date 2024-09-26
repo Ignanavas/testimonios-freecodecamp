@@ -6,6 +6,14 @@ function App() {
       <div className='contenedor-principal'>
         <h1>Here is what our alumni say about freeCodeCamp: </h1>
       </div>
+         <Testimonio 
+    nombre ='Ignacio Vallejos'
+      pais = ' Argentina'
+      imagen = 'shawn'
+      cargo = 'Software Engineer'
+      empresa = 'Adsmovil'
+      testimonio ="Creador de esta pagina como demo"
+      />
       <Testimonio 
     nombre ='Shawn Wang'
       pais = ' Singapore'
