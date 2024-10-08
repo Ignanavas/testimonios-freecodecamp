@@ -3,13 +3,17 @@ import { Testimonio } from './componentes/Testimonio.js';
 
 function App() {
   return (
+    <div className="App">
+      <header className="App-header">
+        <h2>Tu Nombre Aquí</h2> {/* Reemplaza con tu nombre */}
+      </header>
       <div className='contenedor-principal'>
         <h1>Here is what our alumni say about freeCodeCamp:</h1>
       </div>
       <Testimonio 
         nombre='Ignacio Vallejos'
         pais='Argentina'
-        imagen='ignacio'
+        imagen='shawn'
         cargo='Software Engineer'
         empresa='Adsmovil'
         testimonio="Creador de esta pagina como demo"
