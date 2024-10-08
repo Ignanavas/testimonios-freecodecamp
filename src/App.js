@@ -13,7 +13,7 @@ function App() {
       <Testimonio 
         nombre='Ignacio Vallejos'
         pais='Argentina'
-        imagen='shawn'
+        imagen='ignacio'
         cargo='Software Engineer'
         empresa='Adsmovil'
         testimonio="Creador de esta pagina como demo"
